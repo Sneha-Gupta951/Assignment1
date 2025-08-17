@@ -1,7 +1,7 @@
 # task1
 
-a = input("Enter a number1: ")
-b = input("Enter a number2: ")
+a = int(input("Enter a number1: "))
+b = int(input("Enter a number2: "))
 
 addition = a + b
 print("addition: ", addition)
